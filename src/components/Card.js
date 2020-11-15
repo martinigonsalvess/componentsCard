@@ -16,7 +16,7 @@ function Card({name, job, about}) {
                 <h3>{ name }</h3>
                 <h4>{ job }</h4>
                 <p>{ about }</p>
-                <button>See my github</button>
+                <button><a href="https://github.com/martinigonsalvess/componentsCard">See my github</a></button>
             </div>
         </div>
     )
